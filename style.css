@@ -1,0 +1,54 @@
+body {
+    background: #141415 ;
+    color :  #EBEBFA ;
+     text-align: center;
+
+
+}
+
+.indice{
+    display:inline-flex;   
+    font: normal 20pt arial; 
+
+
+}
+
+
+li {
+    list-style: none;
+    margin-right: 25px;
+    
+}
+
+
+section {
+    background: #8C8A8A;
+    border-radius: 10px;
+    padding: 15px;
+    width: 800px;
+    margin: auto;
+    margin-bottom: 20px;
+    box-shadow: 5px 5px 10px 10px rgba(7, 7, 7, 0.411);
+
+}
+
+
+
+
+h1 {
+    color: #FFFFFF;
+    font-family: fantasy;
+    font-size: 100px;
+}
+
+h2 {
+    font-family: fantasy;
+    font-size: 40px;
+
+}
+
+p {
+
+    font-size: 20px;
+}
+
